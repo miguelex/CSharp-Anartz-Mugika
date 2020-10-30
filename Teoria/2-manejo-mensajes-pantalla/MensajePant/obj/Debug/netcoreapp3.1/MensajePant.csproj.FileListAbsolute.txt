@@ -1,0 +1,13 @@
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\bin\Debug\netcoreapp3.1\MensajePant.exe
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\bin\Debug\netcoreapp3.1\MensajePant.deps.json
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\bin\Debug\netcoreapp3.1\MensajePant.runtimeconfig.json
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\bin\Debug\netcoreapp3.1\MensajePant.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\bin\Debug\netcoreapp3.1\MensajePant.dll
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\bin\Debug\netcoreapp3.1\MensajePant.pdb
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\obj\Debug\netcoreapp3.1\MensajePant.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\obj\Debug\netcoreapp3.1\MensajePant.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\obj\Debug\netcoreapp3.1\MensajePant.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\obj\Debug\netcoreapp3.1\MensajePant.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\obj\Debug\netcoreapp3.1\MensajePant.dll
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\obj\Debug\netcoreapp3.1\MensajePant.pdb
+C:\Users\migue\Documents\c#\Teoria\2-manejo-mensajes-pantalla\MensajePant\obj\Debug\netcoreapp3.1\MensajePant.genruntimeconfig.cache

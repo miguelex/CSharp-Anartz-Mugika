@@ -1,0 +1,13 @@
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\bin\Debug\netcoreapp3.1\holaMundo.exe
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\bin\Debug\netcoreapp3.1\holaMundo.deps.json
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\bin\Debug\netcoreapp3.1\holaMundo.runtimeconfig.json
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\bin\Debug\netcoreapp3.1\holaMundo.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\bin\Debug\netcoreapp3.1\holaMundo.dll
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\bin\Debug\netcoreapp3.1\holaMundo.pdb
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\obj\Debug\netcoreapp3.1\holaMundo.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\obj\Debug\netcoreapp3.1\holaMundo.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\obj\Debug\netcoreapp3.1\holaMundo.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\obj\Debug\netcoreapp3.1\holaMundo.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\obj\Debug\netcoreapp3.1\holaMundo.dll
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\obj\Debug\netcoreapp3.1\holaMundo.pdb
+C:\Users\migue\Documents\c#\Teoria\1-fundamentos-c#\1-holaMundo\obj\Debug\netcoreapp3.1\holaMundo.genruntimeconfig.cache
