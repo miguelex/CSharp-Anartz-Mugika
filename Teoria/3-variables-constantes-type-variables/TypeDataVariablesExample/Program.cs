@@ -60,6 +60,19 @@ namespace TypeDataVariablesExample
             double doubleValue = 125889924445484548566658481523339999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999993333333.03d;
             Console.WriteLine(doubleValue);
 
+            Console.WriteLine("Tipos de datos no númericos - Booleanos");
+
+            bool startGame = true;
+            Console.WriteLine($"¿Juego iniciado? {startGame}");
+
+            startGame = false;
+            Console.WriteLine($"¿Juego iniciado? {startGame}"); 
+
+            startGame = Convert.ToBoolean(1);  
+            Console.WriteLine($"¿Juego iniciado? {startGame}"); 
+            
+            startGame = Convert.ToBoolean(0);  
+            Console.WriteLine($"¿Juego iniciado? {startGame}");      
         }
     }
 }
