@@ -62,6 +62,7 @@ namespace TypeDataVariablesExample
 
             Console.WriteLine("Tipos de datos no númericos - Booleanos");
 
+            //boolean
             bool startGame = true;
             Console.WriteLine($"¿Juego iniciado? {startGame}");
 
@@ -70,9 +71,20 @@ namespace TypeDataVariablesExample
 
             startGame = Convert.ToBoolean(1);  
             Console.WriteLine($"¿Juego iniciado? {startGame}"); 
-            
+
             startGame = Convert.ToBoolean(0);  
-            Console.WriteLine($"¿Juego iniciado? {startGame}");      
+            Console.WriteLine($"¿Juego iniciado? {startGame}");  
+
+            Console.WriteLine("Tipos de datos no númericos - Char");
+
+            //char
+            char zeroBasic = '0';
+            char zeroUnicode = '\u0030';
+            char zeroDecimal = Convert.ToChar(48);
+
+            Console.WriteLine($"Basico: {zeroBasic}"); 
+            Console.WriteLine($"Unicode: {zeroUnicode}");
+            Console.WriteLine($"Decimal: {zeroDecimal}");   
         }
     }
 }
