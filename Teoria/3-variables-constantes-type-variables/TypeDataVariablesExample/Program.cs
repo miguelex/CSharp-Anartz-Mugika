@@ -28,7 +28,7 @@ namespace TypeDataVariablesExample
             long longValue = 3560000000000000000;
             Console.WriteLine(longValue);
 
-             Console.WriteLine("Tipos de datos númericos - Enteros - Sin signo");
+            Console.WriteLine("Tipos de datos númericos - Enteros - Sin signo");
 
             // byte
             //byte byteInvalid = 256; <--- ERROR... seria un ushort
@@ -49,6 +49,16 @@ namespace TypeDataVariablesExample
             //ulong longValue = 9896326987521478962; <--- ERROR
             ulong ulongValue = 18446744073709551615;
             Console.WriteLine(ulongValue);
+
+            Console.WriteLine("Tipos de datos númericos - No Enteros");
+
+            // Float
+            float floatValue = 125889924445484548566658481523333333333.03f;
+            Console.WriteLine(floatValue);
+
+            // Double
+            double doubleValue = 125889924445484548566658481523339999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999993333333.03d;
+            Console.WriteLine(doubleValue);
 
         }
     }
