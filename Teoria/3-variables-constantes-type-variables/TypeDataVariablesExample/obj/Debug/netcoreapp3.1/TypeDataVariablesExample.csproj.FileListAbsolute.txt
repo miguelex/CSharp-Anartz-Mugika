@@ -1,0 +1,13 @@
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\bin\Debug\netcoreapp3.1\TypeDataVariablesExample.exe
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\bin\Debug\netcoreapp3.1\TypeDataVariablesExample.deps.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\bin\Debug\netcoreapp3.1\TypeDataVariablesExample.runtimeconfig.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\bin\Debug\netcoreapp3.1\TypeDataVariablesExample.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\bin\Debug\netcoreapp3.1\TypeDataVariablesExample.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\bin\Debug\netcoreapp3.1\TypeDataVariablesExample.pdb
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.pdb
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.genruntimeconfig.cache
