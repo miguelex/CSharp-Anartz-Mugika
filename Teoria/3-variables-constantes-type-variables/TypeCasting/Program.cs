@@ -8,7 +8,7 @@ namespace TypeCasting
         static void Main(string[] args)
         {
             
-            Console.WriteLine("Tipo de conversión implicito");
+            Console.WriteLine("Tipo de conversión implicita");
             
             char character = 'a';
             int characterInt = character;
@@ -28,7 +28,14 @@ namespace TypeCasting
 
             Console.WriteLine($"Numero entero {numberInt} => float {numberFloat} => double {numberDouble}");
 
-            
+            Console.WriteLine("Tipo de conversión explicita");
+            // double -> float -> long -> int -> char
+
+            double valorInicial = 97.8d;
+            Console.WriteLine($"Estamos conviertiendo el valor double {valorInicial} a un valor float {(float)valorInicial}");
+            Console.WriteLine($"Estamos conviertiendo el valor double {valorInicial} a un valor long  {(long)valorInicial}");
+Console.WriteLine($"Estamos conviertiendo el valor double {valorInicial} a un valor char  {(char)valorInicial}");
+
         }
     }
 }
