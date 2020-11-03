@@ -34,8 +34,22 @@ namespace TypeCasting
             double valorInicial = 97.8d;
             Console.WriteLine($"Estamos conviertiendo el valor double {valorInicial} a un valor float {(float)valorInicial}");
             Console.WriteLine($"Estamos conviertiendo el valor double {valorInicial} a un valor long  {(long)valorInicial}");
-Console.WriteLine($"Estamos conviertiendo el valor double {valorInicial} a un valor char  {(char)valorInicial}");
+            Console.WriteLine($"Estamos conviertiendo el valor double {valorInicial} a un valor char  {(char)valorInicial}");
 
-        }
+            Console.WriteLine("Tipo de conversión con clase convert");
+
+            int myInt = 10;
+            double myDouble = 56.234d;
+            bool myBool = true;
+            char myChar = 'a';
+
+            Console.WriteLine(Convert.ToString(myInt)); //"10"
+            Console.WriteLine(Convert.ToDouble(myInt)); // 10
+            Console.WriteLine(Convert.ToInt32(myChar)); // 97
+            Console.WriteLine(Convert.ToString(myBool)); // "True"
+            Console.WriteLine(Convert.ToInt64(myDouble)); // 56
+            Console.WriteLine(Convert.ToBoolean(0)); // false
+            Console.WriteLine(Convert.ToBoolean(myDouble)); // true
+        }   
     }
 }
