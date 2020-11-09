@@ -1,0 +1,13 @@
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\bin\Debug\netcoreapp3.1\OperatorArimetic.exe
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\bin\Debug\netcoreapp3.1\OperatorArimetic.deps.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\bin\Debug\netcoreapp3.1\OperatorArimetic.runtimeconfig.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\bin\Debug\netcoreapp3.1\OperatorArimetic.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\bin\Debug\netcoreapp3.1\OperatorArimetic.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\bin\Debug\netcoreapp3.1\OperatorArimetic.pdb
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\obj\Debug\netcoreapp3.1\OperatorArimetic.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\obj\Debug\netcoreapp3.1\OperatorArimetic.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\obj\Debug\netcoreapp3.1\OperatorArimetic.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\obj\Debug\netcoreapp3.1\OperatorArimetic.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\obj\Debug\netcoreapp3.1\OperatorArimetic.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\obj\Debug\netcoreapp3.1\OperatorArimetic.pdb
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorArimetic\obj\Debug\netcoreapp3.1\OperatorArimetic.genruntimeconfig.cache
