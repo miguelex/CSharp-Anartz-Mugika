@@ -23,8 +23,19 @@ namespace OperatorArimetic
             Console.WriteLine($"2.5f * 5 = {2.5f * 5}"); //12.5
             Console.WriteLine($"2.5f * -5 = {2.5f * (-5)}"); //-12.5
 
-            Console.WriteLine("COMBINAR OPERDORES (+, -, *)");
-            Console.WriteLine($"((5 * 4) + 65 - 45) * 5 = {((5 * 4) + 65 - 45) * 5}"); //200
+            Console.WriteLine("DIVISIONES (/)");
+            Console.WriteLine($"20 / 5 = {20 / 5}"); // 4
+            Console.WriteLine($"20 / 5 / 5  = {20 / 5 / 5}"); // 0
+            Console.WriteLine($"20 / 5 / 5d  = {20 / 5 / 5d}"); // 0.8
+            Console.WriteLine($"-20 / 5 / 5d  = {-20 / 5 / 5d}"); // -0.8
+            Console.WriteLine($"-20 / 5 / -5d  = {-20 / 5 / -5d}"); // 0.8
+
+            Console.WriteLine("MODULO (resto) (%)");
+            Console.WriteLine($"20 % 5 = {20 % 5}"); // 0
+            Console.WriteLine($"20 % 6 = {20 % 6}"); // 2
+
+            Console.WriteLine("COMBINAR OPERDORES (+, -, *, /, %)");
+            Console.WriteLine($"(((5 * 4) + 65 - 45) * 5) % 40 = {(((5 * 4) + 65 - 45) * 5) % 40}"); //0
             Console.WriteLine($"5 * 4 + 65 - 45 * 5 = {5 * 4 + 65 - 45 * 5}"); //-140
 
         }
