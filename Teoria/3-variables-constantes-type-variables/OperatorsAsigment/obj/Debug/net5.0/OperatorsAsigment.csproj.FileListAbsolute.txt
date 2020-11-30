@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\bin\Debug\net5.0\OperatorsAsigment.exe
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\bin\Debug\net5.0\OperatorsAsigment.deps.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\bin\Debug\net5.0\OperatorsAsigment.runtimeconfig.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\bin\Debug\net5.0\OperatorsAsigment.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\bin\Debug\net5.0\OperatorsAsigment.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\bin\Debug\net5.0\ref\OperatorsAsigment.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\bin\Debug\net5.0\OperatorsAsigment.pdb
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\obj\Debug\net5.0\OperatorsAsigment.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\obj\Debug\net5.0\OperatorsAsigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\obj\Debug\net5.0\OperatorsAsigment.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\obj\Debug\net5.0\OperatorsAsigment.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\obj\Debug\net5.0\OperatorsAsigment.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\obj\Debug\net5.0\OperatorsAsigment.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\obj\Debug\net5.0\ref\OperatorsAsigment.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\obj\Debug\net5.0\OperatorsAsigment.pdb
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsAsigment\obj\Debug\net5.0\OperatorsAsigment.genruntimeconfig.cache
