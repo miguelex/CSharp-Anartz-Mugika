@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\bin\Debug\net5.0\OperatorsRelational.exe
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\bin\Debug\net5.0\OperatorsRelational.deps.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\bin\Debug\net5.0\OperatorsRelational.runtimeconfig.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\bin\Debug\net5.0\OperatorsRelational.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\bin\Debug\net5.0\OperatorsRelational.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\bin\Debug\net5.0\ref\OperatorsRelational.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\bin\Debug\net5.0\OperatorsRelational.pdb
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\obj\Debug\net5.0\OperatorsRelational.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\obj\Debug\net5.0\OperatorsRelational.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\obj\Debug\net5.0\OperatorsRelational.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\obj\Debug\net5.0\OperatorsRelational.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\obj\Debug\net5.0\OperatorsRelational.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\obj\Debug\net5.0\OperatorsRelational.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\obj\Debug\net5.0\ref\OperatorsRelational.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\obj\Debug\net5.0\OperatorsRelational.pdb
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsRelational\obj\Debug\net5.0\OperatorsRelational.genruntimeconfig.cache
