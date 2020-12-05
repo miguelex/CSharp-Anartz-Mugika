@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\obj\Debug\net5.0\OperatorsLogics.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\obj\Debug\net5.0\OperatorsLogics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\obj\Debug\net5.0\OperatorsLogics.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\obj\Debug\net5.0\OperatorsLogics.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\obj\Debug\net5.0\OperatorsLogics.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\bin\Debug\net5.0\OperatorsLogics.exe
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\bin\Debug\net5.0\OperatorsLogics.deps.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\bin\Debug\net5.0\OperatorsLogics.runtimeconfig.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\bin\Debug\net5.0\OperatorsLogics.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\bin\Debug\net5.0\OperatorsLogics.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\bin\Debug\net5.0\ref\OperatorsLogics.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\bin\Debug\net5.0\OperatorsLogics.pdb
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\obj\Debug\net5.0\OperatorsLogics.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\obj\Debug\net5.0\ref\OperatorsLogics.dll
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\obj\Debug\net5.0\OperatorsLogics.pdb
+C:\Users\migue\Documents\c#\Teoria\3-variables-constantes-type-variables\OperatorsLogics\obj\Debug\net5.0\OperatorsLogics.genruntimeconfig.cache
