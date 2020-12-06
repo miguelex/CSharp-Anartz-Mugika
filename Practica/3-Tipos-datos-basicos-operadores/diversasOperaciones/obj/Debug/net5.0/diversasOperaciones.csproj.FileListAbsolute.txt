@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\bin\Debug\net5.0\diversasOperaciones.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\bin\Debug\net5.0\diversasOperaciones.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\bin\Debug\net5.0\diversasOperaciones.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\bin\Debug\net5.0\diversasOperaciones.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\bin\Debug\net5.0\diversasOperaciones.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\bin\Debug\net5.0\ref\diversasOperaciones.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\bin\Debug\net5.0\diversasOperaciones.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\obj\Debug\net5.0\diversasOperaciones.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\obj\Debug\net5.0\diversasOperaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\obj\Debug\net5.0\diversasOperaciones.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\obj\Debug\net5.0\diversasOperaciones.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\obj\Debug\net5.0\diversasOperaciones.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\obj\Debug\net5.0\diversasOperaciones.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\obj\Debug\net5.0\ref\diversasOperaciones.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\obj\Debug\net5.0\diversasOperaciones.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\diversasOperaciones\obj\Debug\net5.0\diversasOperaciones.genruntimeconfig.cache
