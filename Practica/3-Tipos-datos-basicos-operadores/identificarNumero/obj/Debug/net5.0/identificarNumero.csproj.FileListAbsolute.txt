@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\obj\Debug\net5.0\identificarNumero.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\obj\Debug\net5.0\identificarNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\obj\Debug\net5.0\identificarNumero.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\obj\Debug\net5.0\identificarNumero.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\obj\Debug\net5.0\identificarNumero.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\bin\Debug\net5.0\identificarNumero.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\bin\Debug\net5.0\identificarNumero.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\bin\Debug\net5.0\identificarNumero.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\bin\Debug\net5.0\identificarNumero.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\bin\Debug\net5.0\identificarNumero.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\bin\Debug\net5.0\ref\identificarNumero.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\bin\Debug\net5.0\identificarNumero.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\obj\Debug\net5.0\identificarNumero.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\obj\Debug\net5.0\ref\identificarNumero.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\obj\Debug\net5.0\identificarNumero.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarNumero\obj\Debug\net5.0\identificarNumero.genruntimeconfig.cache
