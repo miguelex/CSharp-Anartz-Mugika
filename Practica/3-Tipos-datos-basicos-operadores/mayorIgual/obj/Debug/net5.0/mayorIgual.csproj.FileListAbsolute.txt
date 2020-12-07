@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\bin\Debug\net5.0\mayorIgual.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\bin\Debug\net5.0\mayorIgual.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\bin\Debug\net5.0\mayorIgual.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\bin\Debug\net5.0\mayorIgual.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\bin\Debug\net5.0\mayorIgual.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\bin\Debug\net5.0\ref\mayorIgual.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\bin\Debug\net5.0\mayorIgual.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\obj\Debug\net5.0\mayorIgual.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\obj\Debug\net5.0\mayorIgual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\obj\Debug\net5.0\mayorIgual.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\obj\Debug\net5.0\mayorIgual.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\obj\Debug\net5.0\mayorIgual.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\obj\Debug\net5.0\mayorIgual.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\obj\Debug\net5.0\ref\mayorIgual.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\obj\Debug\net5.0\mayorIgual.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\mayorIgual\obj\Debug\net5.0\mayorIgual.genruntimeconfig.cache
