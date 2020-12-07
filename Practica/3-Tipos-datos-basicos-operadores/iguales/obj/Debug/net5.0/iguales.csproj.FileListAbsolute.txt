@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\bin\Debug\net5.0\iguales.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\bin\Debug\net5.0\iguales.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\bin\Debug\net5.0\iguales.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\bin\Debug\net5.0\iguales.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\bin\Debug\net5.0\iguales.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\bin\Debug\net5.0\ref\iguales.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\bin\Debug\net5.0\iguales.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\obj\Debug\net5.0\iguales.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\obj\Debug\net5.0\iguales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\obj\Debug\net5.0\iguales.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\obj\Debug\net5.0\iguales.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\obj\Debug\net5.0\iguales.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\obj\Debug\net5.0\iguales.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\obj\Debug\net5.0\ref\iguales.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\obj\Debug\net5.0\iguales.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\iguales\obj\Debug\net5.0\iguales.genruntimeconfig.cache
