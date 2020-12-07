@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\bin\Debug\net5.0\multiplo2.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\bin\Debug\net5.0\multiplo2.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\bin\Debug\net5.0\multiplo2.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\bin\Debug\net5.0\multiplo2.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\bin\Debug\net5.0\multiplo2.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\bin\Debug\net5.0\ref\multiplo2.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\bin\Debug\net5.0\multiplo2.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\obj\Debug\net5.0\multiplo2.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\obj\Debug\net5.0\multiplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\obj\Debug\net5.0\multiplo2.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\obj\Debug\net5.0\multiplo2.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\obj\Debug\net5.0\multiplo2.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\obj\Debug\net5.0\multiplo2.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\obj\Debug\net5.0\ref\multiplo2.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\obj\Debug\net5.0\multiplo2.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\multiplo2\obj\Debug\net5.0\multiplo2.genruntimeconfig.cache
