@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\obj\Debug\net5.0\parImpar.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\obj\Debug\net5.0\parImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\obj\Debug\net5.0\parImpar.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\obj\Debug\net5.0\parImpar.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\obj\Debug\net5.0\parImpar.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\bin\Debug\net5.0\parImpar.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\bin\Debug\net5.0\parImpar.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\bin\Debug\net5.0\parImpar.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\bin\Debug\net5.0\parImpar.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\bin\Debug\net5.0\parImpar.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\bin\Debug\net5.0\ref\parImpar.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\bin\Debug\net5.0\parImpar.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\obj\Debug\net5.0\parImpar.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\obj\Debug\net5.0\ref\parImpar.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\obj\Debug\net5.0\parImpar.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\parImpar\obj\Debug\net5.0\parImpar.genruntimeconfig.cache
