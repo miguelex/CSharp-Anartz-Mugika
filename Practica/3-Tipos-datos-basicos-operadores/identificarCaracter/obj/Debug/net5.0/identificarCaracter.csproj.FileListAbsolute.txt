@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\bin\Debug\net5.0\identificarCaracter.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\bin\Debug\net5.0\identificarCaracter.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\bin\Debug\net5.0\identificarCaracter.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\bin\Debug\net5.0\identificarCaracter.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\bin\Debug\net5.0\identificarCaracter.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\bin\Debug\net5.0\ref\identificarCaracter.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\bin\Debug\net5.0\identificarCaracter.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\obj\Debug\net5.0\identificarCaracter.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\obj\Debug\net5.0\identificarCaracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\obj\Debug\net5.0\identificarCaracter.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\obj\Debug\net5.0\identificarCaracter.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\obj\Debug\net5.0\identificarCaracter.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\obj\Debug\net5.0\identificarCaracter.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\obj\Debug\net5.0\ref\identificarCaracter.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\obj\Debug\net5.0\identificarCaracter.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\identificarCaracter\obj\Debug\net5.0\identificarCaracter.genruntimeconfig.cache
