@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\bin\Debug\net5.0\velocidad.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\bin\Debug\net5.0\velocidad.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\bin\Debug\net5.0\velocidad.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\bin\Debug\net5.0\velocidad.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\bin\Debug\net5.0\velocidad.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\bin\Debug\net5.0\ref\velocidad.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\bin\Debug\net5.0\velocidad.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\obj\Debug\net5.0\velocidad.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\obj\Debug\net5.0\velocidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\obj\Debug\net5.0\velocidad.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\obj\Debug\net5.0\velocidad.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\obj\Debug\net5.0\velocidad.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\obj\Debug\net5.0\velocidad.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\obj\Debug\net5.0\ref\velocidad.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\obj\Debug\net5.0\velocidad.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\velocidad\obj\Debug\net5.0\velocidad.genruntimeconfig.cache
