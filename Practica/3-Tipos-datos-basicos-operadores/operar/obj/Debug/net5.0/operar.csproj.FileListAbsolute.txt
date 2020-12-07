@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\bin\Debug\net5.0\operar.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\bin\Debug\net5.0\operar.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\bin\Debug\net5.0\operar.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\bin\Debug\net5.0\operar.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\bin\Debug\net5.0\operar.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\bin\Debug\net5.0\ref\operar.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\bin\Debug\net5.0\operar.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\obj\Debug\net5.0\operar.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\obj\Debug\net5.0\operar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\obj\Debug\net5.0\operar.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\obj\Debug\net5.0\operar.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\obj\Debug\net5.0\operar.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\obj\Debug\net5.0\operar.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\obj\Debug\net5.0\ref\operar.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\obj\Debug\net5.0\operar.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\operar\obj\Debug\net5.0\operar.genruntimeconfig.cache
