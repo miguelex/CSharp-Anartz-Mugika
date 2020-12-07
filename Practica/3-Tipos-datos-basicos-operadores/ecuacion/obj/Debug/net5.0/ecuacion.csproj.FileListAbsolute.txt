@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\bin\Debug\net5.0\ecuacion.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\bin\Debug\net5.0\ecuacion.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\bin\Debug\net5.0\ecuacion.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\bin\Debug\net5.0\ecuacion.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\bin\Debug\net5.0\ecuacion.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\bin\Debug\net5.0\ref\ecuacion.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\bin\Debug\net5.0\ecuacion.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\obj\Debug\net5.0\ecuacion.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\obj\Debug\net5.0\ecuacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\obj\Debug\net5.0\ecuacion.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\obj\Debug\net5.0\ecuacion.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\obj\Debug\net5.0\ecuacion.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\obj\Debug\net5.0\ecuacion.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\obj\Debug\net5.0\ref\ecuacion.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\obj\Debug\net5.0\ecuacion.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\ecuacion\obj\Debug\net5.0\ecuacion.genruntimeconfig.cache
