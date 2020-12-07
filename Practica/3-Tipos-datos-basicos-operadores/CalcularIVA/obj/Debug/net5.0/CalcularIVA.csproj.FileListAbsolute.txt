@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\bin\Debug\net5.0\CalcularIVA.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\bin\Debug\net5.0\CalcularIVA.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\bin\Debug\net5.0\CalcularIVA.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\bin\Debug\net5.0\CalcularIVA.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\bin\Debug\net5.0\CalcularIVA.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\bin\Debug\net5.0\ref\CalcularIVA.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\bin\Debug\net5.0\CalcularIVA.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\obj\Debug\net5.0\CalcularIVA.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\obj\Debug\net5.0\CalcularIVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\obj\Debug\net5.0\CalcularIVA.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\obj\Debug\net5.0\CalcularIVA.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\obj\Debug\net5.0\CalcularIVA.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\obj\Debug\net5.0\CalcularIVA.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\obj\Debug\net5.0\ref\CalcularIVA.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\obj\Debug\net5.0\CalcularIVA.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\CalcularIVA\obj\Debug\net5.0\CalcularIVA.genruntimeconfig.cache

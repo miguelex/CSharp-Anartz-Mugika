@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalcularIVA/1.0.0": {
+        "runtime": {
+          "CalcularIVA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalcularIVA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
