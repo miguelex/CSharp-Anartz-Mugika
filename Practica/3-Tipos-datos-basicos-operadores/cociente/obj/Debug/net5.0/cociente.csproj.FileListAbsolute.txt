@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\bin\Debug\net5.0\cociente.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\bin\Debug\net5.0\cociente.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\bin\Debug\net5.0\cociente.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\bin\Debug\net5.0\cociente.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\bin\Debug\net5.0\cociente.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\bin\Debug\net5.0\ref\cociente.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\bin\Debug\net5.0\cociente.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\obj\Debug\net5.0\cociente.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\obj\Debug\net5.0\cociente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\obj\Debug\net5.0\cociente.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\obj\Debug\net5.0\cociente.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\obj\Debug\net5.0\cociente.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\obj\Debug\net5.0\cociente.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\obj\Debug\net5.0\ref\cociente.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\obj\Debug\net5.0\cociente.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\cociente\obj\Debug\net5.0\cociente.genruntimeconfig.cache
