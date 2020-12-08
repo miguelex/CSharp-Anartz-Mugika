@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\bin\Debug\net5.0\area.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\bin\Debug\net5.0\area.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\bin\Debug\net5.0\area.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\bin\Debug\net5.0\area.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\bin\Debug\net5.0\area.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\bin\Debug\net5.0\ref\area.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\bin\Debug\net5.0\area.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\obj\Debug\net5.0\area.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\obj\Debug\net5.0\area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\obj\Debug\net5.0\area.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\obj\Debug\net5.0\area.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\obj\Debug\net5.0\area.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\obj\Debug\net5.0\area.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\obj\Debug\net5.0\ref\area.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\obj\Debug\net5.0\area.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\area\obj\Debug\net5.0\area.genruntimeconfig.cache
