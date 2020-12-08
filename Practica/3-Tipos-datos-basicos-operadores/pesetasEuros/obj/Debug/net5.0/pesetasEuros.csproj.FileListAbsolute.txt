@@ -1,0 +1,16 @@
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\bin\Debug\net5.0\pesetasEuros.exe
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\bin\Debug\net5.0\pesetasEuros.deps.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\bin\Debug\net5.0\pesetasEuros.runtimeconfig.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\bin\Debug\net5.0\pesetasEuros.runtimeconfig.dev.json
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\bin\Debug\net5.0\pesetasEuros.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\bin\Debug\net5.0\ref\pesetasEuros.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\bin\Debug\net5.0\pesetasEuros.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\obj\Debug\net5.0\pesetasEuros.csprojAssemblyReference.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\obj\Debug\net5.0\pesetasEuros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\obj\Debug\net5.0\pesetasEuros.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\obj\Debug\net5.0\pesetasEuros.AssemblyInfo.cs
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\obj\Debug\net5.0\pesetasEuros.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\obj\Debug\net5.0\pesetasEuros.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\obj\Debug\net5.0\ref\pesetasEuros.dll
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\obj\Debug\net5.0\pesetasEuros.pdb
+C:\Users\migue\Documents\c#\Practica\3-Tipos-datos-basicos-operadores\pesetasEuros\obj\Debug\net5.0\pesetasEuros.genruntimeconfig.cache
