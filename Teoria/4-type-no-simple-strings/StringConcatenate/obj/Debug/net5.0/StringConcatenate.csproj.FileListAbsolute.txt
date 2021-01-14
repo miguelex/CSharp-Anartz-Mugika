@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\bin\Debug\net5.0\StringConcatenate.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\bin\Debug\net5.0\StringConcatenate.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\bin\Debug\net5.0\StringConcatenate.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\bin\Debug\net5.0\StringConcatenate.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\bin\Debug\net5.0\StringConcatenate.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\bin\Debug\net5.0\ref\StringConcatenate.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\bin\Debug\net5.0\StringConcatenate.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\obj\Debug\net5.0\StringConcatenate.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\obj\Debug\net5.0\StringConcatenate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\obj\Debug\net5.0\StringConcatenate.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\obj\Debug\net5.0\StringConcatenate.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\obj\Debug\net5.0\StringConcatenate.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\obj\Debug\net5.0\StringConcatenate.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\obj\Debug\net5.0\ref\StringConcatenate.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\obj\Debug\net5.0\StringConcatenate.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\StringConcatenate\obj\Debug\net5.0\StringConcatenate.genruntimeconfig.cache
