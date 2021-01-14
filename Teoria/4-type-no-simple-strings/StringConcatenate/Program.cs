@@ -36,6 +36,12 @@ namespace StringConcatenate
             result = String.Format("{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}", 1, 2, 3, 4, 5, 6, 7, 8);
 
             Console.WriteLine("Concatenación - String Interpolation");
+
+            int age = 34;
+            string fullName = $"{name} {lastName}";
+
+            result = $"Mi nombre es {fullName} y tengo {age} años.";
+
         }
     }
 }
