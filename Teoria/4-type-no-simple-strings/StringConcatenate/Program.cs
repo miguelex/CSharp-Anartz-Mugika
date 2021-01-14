@@ -30,6 +30,11 @@ namespace StringConcatenate
             result = String.Concat(name, " ", lastName, x, y, helloMessage); // "MigueDel Mar1029Hola!"
 
             Console.WriteLine("Concatenación - Funcion Format");
+
+            result = String.Format("Mi nombre de pila es {0}", name); // "Mi nombre de pila es Migue"
+            result = String.Format("Mi nombre de pila es {0} y mis apellidos son {1}", name, lastName); // "Mi nombre de pila es Migue y mis apellidos son Del Mar"
+            result = String.Format("{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}", 1, 2, 3, 4, 5, 6, 7, 8);
+
             Console.WriteLine("Concatenación - String Interpolation");
         }
     }
