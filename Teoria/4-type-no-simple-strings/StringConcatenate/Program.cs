@@ -17,8 +17,18 @@ namespace StringConcatenate
             result = helloMessage + " " + x; // "Hola! 10"
             result = x + "" + y; //"1029"
 
-
             Console.WriteLine("Concatenación - Funcion Concat");
+
+            string name = "Migue", lastName = "Del Mar";
+            // Concatenar name y lastName
+            result = String.Concat(name, lastName); // "MigueDel Mar"
+            // Separando nombre y apellido
+
+            result = String.Concat(name, " " , lastName); // "MigueDel Mar"
+
+            // Concatenamos muchos valores
+            result = String.Concat(name, " ", lastName, x, y, helloMessage); // "MigueDel Mar1029Hola!"
+
             Console.WriteLine("Concatenación - Funcion Format");
             Console.WriteLine("Concatenación - String Interpolation");
         }
