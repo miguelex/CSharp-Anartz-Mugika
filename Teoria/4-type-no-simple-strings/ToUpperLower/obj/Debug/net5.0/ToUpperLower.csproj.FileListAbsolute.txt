@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\bin\Debug\net5.0\ToUpperLower.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\bin\Debug\net5.0\ToUpperLower.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\bin\Debug\net5.0\ToUpperLower.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\bin\Debug\net5.0\ToUpperLower.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\bin\Debug\net5.0\ToUpperLower.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\bin\Debug\net5.0\ref\ToUpperLower.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\bin\Debug\net5.0\ToUpperLower.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\obj\Debug\net5.0\ToUpperLower.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\obj\Debug\net5.0\ToUpperLower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\obj\Debug\net5.0\ToUpperLower.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\obj\Debug\net5.0\ToUpperLower.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\obj\Debug\net5.0\ToUpperLower.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\obj\Debug\net5.0\ToUpperLower.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\obj\Debug\net5.0\ref\ToUpperLower.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\obj\Debug\net5.0\ToUpperLower.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ToUpperLower\obj\Debug\net5.0\ToUpperLower.genruntimeconfig.cache
