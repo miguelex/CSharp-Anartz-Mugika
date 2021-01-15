@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\bin\Debug\net5.0\ContentFinder.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\bin\Debug\net5.0\ContentFinder.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\bin\Debug\net5.0\ContentFinder.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\bin\Debug\net5.0\ContentFinder.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\bin\Debug\net5.0\ContentFinder.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\bin\Debug\net5.0\ref\ContentFinder.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\bin\Debug\net5.0\ContentFinder.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\obj\Debug\net5.0\ContentFinder.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\obj\Debug\net5.0\ContentFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\obj\Debug\net5.0\ContentFinder.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\obj\Debug\net5.0\ContentFinder.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\obj\Debug\net5.0\ContentFinder.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\obj\Debug\net5.0\ContentFinder.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\obj\Debug\net5.0\ref\ContentFinder.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\obj\Debug\net5.0\ContentFinder.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\ContentFinder\obj\Debug\net5.0\ContentFinder.genruntimeconfig.cache
