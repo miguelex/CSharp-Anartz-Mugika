@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\bin\Debug\net5.0\Substring.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\bin\Debug\net5.0\Substring.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\bin\Debug\net5.0\Substring.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\bin\Debug\net5.0\Substring.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\bin\Debug\net5.0\Substring.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\bin\Debug\net5.0\ref\Substring.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\bin\Debug\net5.0\Substring.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\obj\Debug\net5.0\Substring.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\obj\Debug\net5.0\Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\obj\Debug\net5.0\Substring.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\obj\Debug\net5.0\Substring.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\obj\Debug\net5.0\Substring.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\obj\Debug\net5.0\Substring.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\obj\Debug\net5.0\ref\Substring.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\obj\Debug\net5.0\Substring.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Substring\obj\Debug\net5.0\Substring.genruntimeconfig.cache
