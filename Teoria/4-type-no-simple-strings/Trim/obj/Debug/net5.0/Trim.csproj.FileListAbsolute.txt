@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\bin\Debug\net5.0\Trim.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\bin\Debug\net5.0\Trim.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\bin\Debug\net5.0\Trim.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\bin\Debug\net5.0\Trim.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\bin\Debug\net5.0\Trim.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\bin\Debug\net5.0\ref\Trim.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\bin\Debug\net5.0\Trim.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\obj\Debug\net5.0\Trim.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\obj\Debug\net5.0\Trim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\obj\Debug\net5.0\Trim.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\obj\Debug\net5.0\Trim.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\obj\Debug\net5.0\Trim.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\obj\Debug\net5.0\Trim.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\obj\Debug\net5.0\ref\Trim.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\obj\Debug\net5.0\Trim.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\4-type-no-simple-strings\Trim\obj\Debug\net5.0\Trim.genruntimeconfig.cache
