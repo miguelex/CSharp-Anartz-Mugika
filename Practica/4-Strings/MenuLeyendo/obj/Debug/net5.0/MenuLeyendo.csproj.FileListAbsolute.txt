@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\bin\Debug\net5.0\MenuLeyendo.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\bin\Debug\net5.0\MenuLeyendo.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\bin\Debug\net5.0\MenuLeyendo.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\bin\Debug\net5.0\MenuLeyendo.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\bin\Debug\net5.0\MenuLeyendo.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\bin\Debug\net5.0\ref\MenuLeyendo.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\bin\Debug\net5.0\MenuLeyendo.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\obj\Debug\net5.0\MenuLeyendo.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\obj\Debug\net5.0\MenuLeyendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\obj\Debug\net5.0\MenuLeyendo.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\obj\Debug\net5.0\MenuLeyendo.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\obj\Debug\net5.0\MenuLeyendo.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\obj\Debug\net5.0\MenuLeyendo.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\obj\Debug\net5.0\ref\MenuLeyendo.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\obj\Debug\net5.0\MenuLeyendo.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuLeyendo\obj\Debug\net5.0\MenuLeyendo.genruntimeconfig.cache

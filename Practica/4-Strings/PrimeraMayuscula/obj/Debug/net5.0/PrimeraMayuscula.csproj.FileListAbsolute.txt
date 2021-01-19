@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\bin\Debug\net5.0\PrimeraMayuscula.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\bin\Debug\net5.0\PrimeraMayuscula.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\bin\Debug\net5.0\PrimeraMayuscula.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\bin\Debug\net5.0\PrimeraMayuscula.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\bin\Debug\net5.0\PrimeraMayuscula.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\bin\Debug\net5.0\ref\PrimeraMayuscula.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\bin\Debug\net5.0\PrimeraMayuscula.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\obj\Debug\net5.0\PrimeraMayuscula.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\obj\Debug\net5.0\PrimeraMayuscula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\obj\Debug\net5.0\PrimeraMayuscula.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\obj\Debug\net5.0\PrimeraMayuscula.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\obj\Debug\net5.0\PrimeraMayuscula.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\obj\Debug\net5.0\PrimeraMayuscula.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\obj\Debug\net5.0\ref\PrimeraMayuscula.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\obj\Debug\net5.0\PrimeraMayuscula.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\PrimeraMayuscula\obj\Debug\net5.0\PrimeraMayuscula.genruntimeconfig.cache

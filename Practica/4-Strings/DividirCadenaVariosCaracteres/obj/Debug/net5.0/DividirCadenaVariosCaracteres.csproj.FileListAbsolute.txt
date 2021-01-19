@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\obj\Debug\net5.0\DividirCadenaVariosCaracteres.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\obj\Debug\net5.0\DividirCadenaVariosCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\obj\Debug\net5.0\DividirCadenaVariosCaracteres.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\obj\Debug\net5.0\DividirCadenaVariosCaracteres.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\obj\Debug\net5.0\DividirCadenaVariosCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\bin\Debug\net5.0\DividirCadenaVariosCaracteres.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\bin\Debug\net5.0\DividirCadenaVariosCaracteres.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\bin\Debug\net5.0\DividirCadenaVariosCaracteres.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\bin\Debug\net5.0\DividirCadenaVariosCaracteres.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\bin\Debug\net5.0\DividirCadenaVariosCaracteres.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\bin\Debug\net5.0\ref\DividirCadenaVariosCaracteres.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\bin\Debug\net5.0\DividirCadenaVariosCaracteres.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\obj\Debug\net5.0\DividirCadenaVariosCaracteres.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\obj\Debug\net5.0\ref\DividirCadenaVariosCaracteres.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\obj\Debug\net5.0\DividirCadenaVariosCaracteres.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\DividirCadenaVariosCaracteres\obj\Debug\net5.0\DividirCadenaVariosCaracteres.genruntimeconfig.cache

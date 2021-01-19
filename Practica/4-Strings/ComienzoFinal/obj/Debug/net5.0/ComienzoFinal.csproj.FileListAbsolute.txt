@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\bin\Debug\net5.0\ComienzoFinal.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\bin\Debug\net5.0\ComienzoFinal.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\bin\Debug\net5.0\ComienzoFinal.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\bin\Debug\net5.0\ComienzoFinal.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\bin\Debug\net5.0\ComienzoFinal.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\bin\Debug\net5.0\ref\ComienzoFinal.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\bin\Debug\net5.0\ComienzoFinal.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\obj\Debug\net5.0\ComienzoFinal.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\obj\Debug\net5.0\ComienzoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\obj\Debug\net5.0\ComienzoFinal.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\obj\Debug\net5.0\ComienzoFinal.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\obj\Debug\net5.0\ComienzoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\obj\Debug\net5.0\ComienzoFinal.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\obj\Debug\net5.0\ref\ComienzoFinal.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\obj\Debug\net5.0\ComienzoFinal.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ComienzoFinal\obj\Debug\net5.0\ComienzoFinal.genruntimeconfig.cache

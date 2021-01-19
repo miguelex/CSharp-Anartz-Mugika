@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\bin\Debug\net5.0\LongitudIgual.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\bin\Debug\net5.0\LongitudIgual.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\bin\Debug\net5.0\LongitudIgual.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\bin\Debug\net5.0\LongitudIgual.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\bin\Debug\net5.0\LongitudIgual.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\bin\Debug\net5.0\ref\LongitudIgual.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\bin\Debug\net5.0\LongitudIgual.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\obj\Debug\net5.0\LongitudIgual.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\obj\Debug\net5.0\LongitudIgual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\obj\Debug\net5.0\LongitudIgual.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\obj\Debug\net5.0\LongitudIgual.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\obj\Debug\net5.0\LongitudIgual.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\obj\Debug\net5.0\LongitudIgual.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\obj\Debug\net5.0\ref\LongitudIgual.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\obj\Debug\net5.0\LongitudIgual.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\LongitudIgual\obj\Debug\net5.0\LongitudIgual.genruntimeconfig.cache

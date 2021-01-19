@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\bin\Debug\net5.0\MenuAhorcado.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\bin\Debug\net5.0\MenuAhorcado.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\bin\Debug\net5.0\MenuAhorcado.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\bin\Debug\net5.0\MenuAhorcado.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\bin\Debug\net5.0\MenuAhorcado.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\bin\Debug\net5.0\ref\MenuAhorcado.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\bin\Debug\net5.0\MenuAhorcado.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\obj\Debug\net5.0\MenuAhorcado.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\obj\Debug\net5.0\MenuAhorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\obj\Debug\net5.0\MenuAhorcado.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\obj\Debug\net5.0\MenuAhorcado.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\obj\Debug\net5.0\MenuAhorcado.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\obj\Debug\net5.0\MenuAhorcado.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\obj\Debug\net5.0\ref\MenuAhorcado.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\obj\Debug\net5.0\MenuAhorcado.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\MenuAhorcado\obj\Debug\net5.0\MenuAhorcado.genruntimeconfig.cache

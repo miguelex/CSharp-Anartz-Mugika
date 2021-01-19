@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\bin\Debug\net5.0\BuscarYExtraer.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\bin\Debug\net5.0\BuscarYExtraer.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\bin\Debug\net5.0\BuscarYExtraer.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\bin\Debug\net5.0\BuscarYExtraer.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\bin\Debug\net5.0\BuscarYExtraer.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\bin\Debug\net5.0\ref\BuscarYExtraer.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\bin\Debug\net5.0\BuscarYExtraer.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\obj\Debug\net5.0\BuscarYExtraer.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\obj\Debug\net5.0\BuscarYExtraer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\obj\Debug\net5.0\BuscarYExtraer.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\obj\Debug\net5.0\BuscarYExtraer.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\obj\Debug\net5.0\BuscarYExtraer.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\obj\Debug\net5.0\BuscarYExtraer.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\obj\Debug\net5.0\ref\BuscarYExtraer.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\obj\Debug\net5.0\BuscarYExtraer.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\BuscarYExtraer\obj\Debug\net5.0\BuscarYExtraer.genruntimeconfig.cache
