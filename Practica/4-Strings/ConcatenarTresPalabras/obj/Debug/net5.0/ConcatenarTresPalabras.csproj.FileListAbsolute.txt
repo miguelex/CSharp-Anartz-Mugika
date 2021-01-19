@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\bin\Debug\net5.0\ConcatenarTresPalabras.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\bin\Debug\net5.0\ConcatenarTresPalabras.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\bin\Debug\net5.0\ConcatenarTresPalabras.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\bin\Debug\net5.0\ConcatenarTresPalabras.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\bin\Debug\net5.0\ConcatenarTresPalabras.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\bin\Debug\net5.0\ref\ConcatenarTresPalabras.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\bin\Debug\net5.0\ConcatenarTresPalabras.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\obj\Debug\net5.0\ConcatenarTresPalabras.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\obj\Debug\net5.0\ConcatenarTresPalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\obj\Debug\net5.0\ConcatenarTresPalabras.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\obj\Debug\net5.0\ConcatenarTresPalabras.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\obj\Debug\net5.0\ConcatenarTresPalabras.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\obj\Debug\net5.0\ConcatenarTresPalabras.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\obj\Debug\net5.0\ref\ConcatenarTresPalabras.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\obj\Debug\net5.0\ConcatenarTresPalabras.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabras\obj\Debug\net5.0\ConcatenarTresPalabras.genruntimeconfig.cache

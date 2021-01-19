@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\bin\Debug\net5.0\ConcatenarConSaltodeLinea.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\bin\Debug\net5.0\ConcatenarConSaltodeLinea.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\bin\Debug\net5.0\ConcatenarConSaltodeLinea.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\bin\Debug\net5.0\ConcatenarConSaltodeLinea.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\bin\Debug\net5.0\ConcatenarConSaltodeLinea.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\bin\Debug\net5.0\ref\ConcatenarConSaltodeLinea.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\bin\Debug\net5.0\ConcatenarConSaltodeLinea.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\obj\Debug\net5.0\ConcatenarConSaltodeLinea.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\obj\Debug\net5.0\ConcatenarConSaltodeLinea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\obj\Debug\net5.0\ConcatenarConSaltodeLinea.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\obj\Debug\net5.0\ConcatenarConSaltodeLinea.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\obj\Debug\net5.0\ConcatenarConSaltodeLinea.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\obj\Debug\net5.0\ConcatenarConSaltodeLinea.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\obj\Debug\net5.0\ref\ConcatenarConSaltodeLinea.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\obj\Debug\net5.0\ConcatenarConSaltodeLinea.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarConSaltodeLinea\obj\Debug\net5.0\ConcatenarConSaltodeLinea.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\bin\Debug\net5.0\ConcatenarTresPalabrasConFormat.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\bin\Debug\net5.0\ConcatenarTresPalabrasConFormat.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\bin\Debug\net5.0\ConcatenarTresPalabrasConFormat.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\bin\Debug\net5.0\ConcatenarTresPalabrasConFormat.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\bin\Debug\net5.0\ConcatenarTresPalabrasConFormat.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\bin\Debug\net5.0\ref\ConcatenarTresPalabrasConFormat.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\bin\Debug\net5.0\ConcatenarTresPalabrasConFormat.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\obj\Debug\net5.0\ConcatenarTresPalabrasConFormat.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\obj\Debug\net5.0\ConcatenarTresPalabrasConFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\obj\Debug\net5.0\ConcatenarTresPalabrasConFormat.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\obj\Debug\net5.0\ConcatenarTresPalabrasConFormat.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\obj\Debug\net5.0\ConcatenarTresPalabrasConFormat.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\obj\Debug\net5.0\ConcatenarTresPalabrasConFormat.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\obj\Debug\net5.0\ref\ConcatenarTresPalabrasConFormat.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\obj\Debug\net5.0\ConcatenarTresPalabrasConFormat.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Practica\4-Strings\ConcatenarTresPalabrasConFormat\obj\Debug\net5.0\ConcatenarTresPalabrasConFormat.genruntimeconfig.cache
