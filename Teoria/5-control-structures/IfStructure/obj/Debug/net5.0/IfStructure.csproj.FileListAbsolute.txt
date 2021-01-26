@@ -1,0 +1,16 @@
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\bin\Debug\net5.0\IfStructure.exe
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\bin\Debug\net5.0\IfStructure.deps.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\bin\Debug\net5.0\IfStructure.runtimeconfig.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\bin\Debug\net5.0\IfStructure.runtimeconfig.dev.json
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\bin\Debug\net5.0\IfStructure.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\bin\Debug\net5.0\ref\IfStructure.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\bin\Debug\net5.0\IfStructure.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\obj\Debug\net5.0\IfStructure.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\obj\Debug\net5.0\IfStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\obj\Debug\net5.0\IfStructure.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\obj\Debug\net5.0\IfStructure.AssemblyInfo.cs
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\obj\Debug\net5.0\IfStructure.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\obj\Debug\net5.0\IfStructure.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\obj\Debug\net5.0\ref\IfStructure.dll
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\obj\Debug\net5.0\IfStructure.pdb
+C:\Users\Migue\Documents\GitHub\CSharp-Anartz-Mugika\Teoria\5-control-structures\IfStructure\obj\Debug\net5.0\IfStructure.genruntimeconfig.cache
